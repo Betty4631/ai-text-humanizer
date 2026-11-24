@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="ai-text-humanizer" width="840" />
-
 # AiTextHumanizer — AI Detector Bypass Rewriter Engine (Portable x64 Build, JSON Configuration)
 
 <p><strong>AiTextHumanizer — AI Detector Bypass Rewriter Engine (Portable x64 Build, JSON Configuration): Rewrite AI text so detectors score it 0% — locally. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
